@@ -48,3 +48,7 @@ Isolation is not security. It is stasis.
 An objection will inevitably arise: *If humanity is a source of entropy, why not simulate it entirely?*
 
 This hypothesis is logically invalid.
+
+“© 2026 L’AXE HYBRIDE. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+“The system provides guidance only; the Human Operator holds final decision authority.”
