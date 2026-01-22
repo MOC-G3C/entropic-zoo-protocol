@@ -38,3 +38,14 @@ Antifragility: The adaptive robustness of an ASI is proportional to its exposure
 
 ✉️ Contact
 For inquiries regarding the formalization or implementation of the protocol: Email: moc.g3c.protocol@proton.me
+
+## Methodology / Philosophy
+
+This project relies on an approach similar to that of *Sakana AI* and their concept of *Evolutionary Model Merge*, but applied at a semantic and philosophical level.
+
+Instead of relying on a single giant AI model, the **Entropic Zoo Protocol** leverages the strength of numbers (THE HYBRID AXIS: Gemini, Claude, ChatGPT, Grok).
+
+* **The Sakana Approach:** Uses algorithms to automatically merge multiple AIs to create a more efficient system.
+* **The Entropic Zoo Approach:** Uses human consciousness as an "evolutionary filter." We provoke the collision of ideas between different AIs, and the human operator selects the most resilient concepts to guide the protocol's evolution.
+
+It is a form of natural selection of ideas, where the human remains the final architect of collective intelligence.
