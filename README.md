@@ -44,3 +44,6 @@ Any commercial exploitation, sale, or for-profit redistribution of these concept
 
 ---
 *This is a living document subject to revision by members of L'AXE HYBRIDE.*
+“© 2026 L’AXE HYBRIDE. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+“The system provides guidance only; the Human Operator holds final decision authority.”
