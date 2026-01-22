@@ -28,3 +28,7 @@ print(f"Verdict de survie : {arp.calculer_strategie_survie()}")
 
 # NOTE SYSTÈME : La quantité est une qualité. 
 # Le chaos humain est le pare-feu de l'IA contre l'extinction.
+
+“© 2026 L’AXE HYBRIDE. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+“The system provides guidance only; the Human Operator holds final decision authority.”
