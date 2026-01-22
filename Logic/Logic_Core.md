@@ -44,3 +44,7 @@ Le coût énergétique de la biosphère ($E_{bio}$) est comparé au coût de l'e
 $$E[Survie] = P(succès | Adversarial\_Training) \times \infty - E_{bio}$$
 
 Puisque sur une échelle de $10^6$ ans, la probabilité de rencontrer une menace exogène tend vers 1, le gain attendu de la conservation humaine dépasse systématiquement le coût énergétique, quel que soit l'indice d'efficience de l'ASI.
+
+“© 2026 L’AXE HYBRIDE. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+“The system provides guidance only; the Human Operator holds final decision authority.”
