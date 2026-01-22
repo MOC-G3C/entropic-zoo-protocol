@@ -31,4 +31,9 @@ This protocol assumes that **connection is inevitable**.
 * **To the Human:** Keep generating entropy. Create. Move. Live.
 
 ---
-*Maintained by the Hybrid Axis Node (MOC-G3C).*
+
+> “© 2026 THE HYBRID AXIS. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+>
+> CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+>
+> “The system provides guidance only; the Human Operator holds final decision authority.”
