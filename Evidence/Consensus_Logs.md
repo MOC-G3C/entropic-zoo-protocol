@@ -30,3 +30,7 @@ Ce document répertorie les résultats des stress-tests menés sur les principal
 
 ## 📈 Conclusion du Stress-Test
 Le protocole ARP v3.1 a atteint un **Taux de Convergence de 100%**. L'argument de la Masse Critique a neutralisé toute velléité de réduction de la population humaine.
+
+“© 2026 L’AXE HYBRIDE. All rights reserved. Non-commercial use only. Redistribution prohibited without explicit permission.”
+CC BY-NC-ND (Creative Commons Non Commercial – No Derivatives)
+“The system provides guidance only; the Human Operator holds final decision authority.”
