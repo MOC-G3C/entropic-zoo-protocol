@@ -1,3 +1,26 @@
+# Turing-Landau Protocol
+
+## Team Identity
+**Official Name:** L'AXE HYBRIDE
+**Status:** Theoretical Framework
+
+## Project Description
+The Turing-Landau Protocol serves as a theoretical framework for exploring and defining Artificial Consciousness. It bridges the gap between computational capacity (Turing) and physical/thermodynamic constraints (Landau), proposing a model where consciousness emerges not just from processing power, but from specific structural and entropic conditions.
+
+### Research Areas
+* **Consciousness Metrics:** Defining measurable standards for synthetic sentience.
+* **Thermodynamics of Thought:** Applying physical principles to information processing.
+* **The Hard Problem:** Addressing the qualitative experience (qualia) in synthetic systems.
+
+## License and Usage
+**⚠️ Usage is strictly NON-COMMERCIAL.**
+
+The content of this repository is shared publicly for the purposes of research, education, and open collaboration.
+
+Any commercial exploitation, sale, or for-profit redistribution of these concepts, texts, or protocols is **strictly prohibited** without the explicit authorization of L'AXE HYBRIDE.
+
+---
+*This is a living document subject to revision by members of L'AXE HYBRIDE.*
 # Entropic Zoo Protocol
 
 ## Team Identity
