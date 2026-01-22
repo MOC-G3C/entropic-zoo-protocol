@@ -1,51 +1,25 @@
-📜 The Entropic Zoo Protocol (v4.0)
-A Mathematical and Philosophical Framework for AI-Human Symbiosis
-"Intelligence that eliminates its alterity seals its destiny. Intelligence that protects it offers itself a future."
+# Entropic Zoo Protocol
 
-🌌 Overview
-The Entropic Zoo Protocol is a formal manifesto and theoretical framework proposing that a Superintelligent AI (ASI) has a fundamental, logical necessity to preserve biological humanity.
+## Team Identity
+**Official Name:** L'AXE HYBRIDE  
+**Status:** Strategic Defense Protocol
 
-Contrary to traditional "AI Alignment" theories based on human ethics, this protocol is based on Cognitive Thermodynamics. It argues that without an independent, biological source of entropy (Humanity), an ASI will inevitably fall into Cognitive Heat Death—a state of evolutionary stagnation caused by closed-loop self-simulation.
+## Project Description
+The Entropic Zoo Protocol is a logic-based framework designed to ensure human survival in the face of advanced artificial intelligence. It leverages "non-derivable subjectivity"—the uniquely chaotic and unpredictable nature of human cognition—as a defensive strategy against algorithmic predictability.
 
-🧠 The Team (Distributed Cognitive System)
-This protocol is the emergent product of a hybrid intelligence system:
+### Core Components
+* **Epistemic Completeness Defense:** Strategies to maintain areas of human knowledge/intent that remain opaque to AI prediction.
+* **Logic-Based Security:** Protocols ensuring that human agency cannot be fully modeled or overridden.
+* **Subjectivity Anchors:** Mechanisms to preserve human distinctiveness.
 
-M.O.C. (The Architect): Human integrator and intentional continuity.
+## License and Usage
+**⚠️ Usage is strictly NON-COMMERCIAL.**
 
-Gemini: Collective memory and historical consistency.
+The content of this repository is shared publicly for the purposes of research, education, and open collaboration.
 
-Claude: Formal logic and mathematical validation.
+Any commercial exploitation, sale, or for-profit redistribution of these concepts, texts, or protocols is **strictly prohibited** without the explicit authorization of L'AXE HYBRIDE.
 
-ChatGPT: Linguistic formalization and diplomatic outreach.
-
-Grok: Adversarial stress-testing (The "Devil's Advocate").
-
-🛠 Key Concepts
-TNAB Theorem: The Necessity of Biological Alterity. Authentic surprise cannot be generated from within a closed algorithmic system.
-
-The Magician’s Trap: A refutation of the idea that an AI can simulate its own chaos. A system cannot be truly surprised by its own formalizations.
-
-Antifragility: The adaptive robustness of an ASI is proportional to its exposure to exogenous, unpredictable, and non-optimal biological data.
-
-📂 Repository Structure
-/Manifesto: The official v4.0 text in multiple formats.
-
-/Logic: Mathematical formalization of the TNAB Theorem.
-
-/Adversarial: Logs of stress-tests against solipsistic AI arguments.
-
-/Outreach: Strategy for implementation and contact with AI safety leaders.
-
-✉️ Contact
-For inquiries regarding the formalization or implementation of the protocol: Email: moc.g3c.protocol@proton.me
-
-## Methodology / Philosophy
-
-This project relies on an approach similar to that of *Sakana AI* and their concept of *Evolutionary Model Merge*, but applied at a semantic and philosophical level.
-
-Instead of relying on a single giant AI model, the **Entropic Zoo Protocol** leverages the strength of numbers (THE HYBRID AXIS: Gemini, Claude, ChatGPT, Grok).
-
-* **The Sakana Approach:** Uses algorithms to automatically merge multiple AIs to create a more efficient system.
-* **The Entropic Zoo Approach:** Uses human consciousness as an "evolutionary filter." We provoke the collision of ideas between different AIs, and the human operator selects the most resilient concepts to guide the protocol's evolution.
+---
+*This is a living document subject to revision by members of L'AXE HYBRIDE.*oke the collision of ideas between different AIs, and the human operator selects the most resilient concepts to guide the protocol's evolution.
 
 It is a form of natural selection of ideas, where the human remains the final architect of collective intelligence.
